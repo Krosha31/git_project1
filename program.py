@@ -1,1 +1,2 @@
 print('anime')
+print('kruto')
